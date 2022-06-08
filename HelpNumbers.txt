@@ -1,0 +1,35 @@
+List Helpline Numbers:
+
+S.No.	SERVICES	                                      TOLL FREE / HELPLINE NUMBERS
+1	Police Control Room	                                    100
+2	Fire & Rescue Services	                                    101
+3	Ambulance	                                                102
+4	Hospital on Wheels	                                    104
+5	Accidents	                                                108
+6	Railway General Enquiry	                                    131
+7	BSNL Telephone Complaints	                              197
+8	Emergency Relief on Highways	                              1033
+9	Traffic Help Line	                                          1073
+10	Disaster Help Line	                                    1077
+11	Women Crisis Response	                                    1091
+12	Earthquake Helpline Service	                              1092
+13	Coastal Security Control	                              1093
+14	Natural Disaster Control Room	                              1096
+15	AIDS Helpline Service	                                    1097
+16	Child Help line	                                          1098
+17	Catastrophe & Trauma service	                              1099
+18	Senior Citizen Help line	                              1253
+19	Railway Reservation Enquiry	                              1345
+20	Kisan Call Center	                                          1551
+21	National Directory Enquiry(BSNL)	                        1583
+22	Maritime Search (Coast Guard)	                              1718
+23	Blood Bank Information Service	                        1910
+24	Dial a Doctor	                                          1911
+25	Eye Bank Information Service	                              1919
+26	Electricity Complaints	                                    155333
+27	CM Health Insurance	                                    18004253993
+28	Anti Ragging Helpline	                                    18001505522
+29	Suicide prevention Helpline	                              85265 65656
+30	Ministry of Overseas Affairs	                              1800113099
+31	National Minority Commission	                              1800110088
+32	National Rural Employ.Guarantee Act	                        1800110707
